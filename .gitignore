@@ -3,3 +3,10 @@
 
 # Add .gitignore to git
 !/.gitignore
+
+!/.config
+/.config/*
+!/.config/git
+/.config/git/*
+!/.config/git/ignore
+!/.config/git/config

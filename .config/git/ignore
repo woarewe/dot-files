@@ -1,0 +1,6 @@
+# This is default path for option
+# core.excludesFile
+# https://git-scm.com/docs/git-config#Documentation/git-config.txt-coreexcludesFile
+
+.idea
+.DS_Store
