@@ -3,6 +3,7 @@
 
 # Add .gitignore to git
 !/.gitignore
+!/.zprofile
 
 !/.config
 /.config/*
