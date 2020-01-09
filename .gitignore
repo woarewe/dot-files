@@ -4,6 +4,7 @@
 # Add .gitignore to git
 !/.gitignore
 !/.zprofile
+!/.irbrc
 
 !/.config
 /.config/*
