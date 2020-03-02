@@ -5,6 +5,7 @@
 !/.gitignore
 !/.zprofile
 !/.irbrc
+!/.pryrc
 
 !/.config
 /.config/*
