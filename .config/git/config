@@ -2,7 +2,7 @@
 	name = woarewe
 	email = rostislav@hey.com
 [core]
-	editor = vim
+	editor = code --wait
 	autocrlf = input
 [pull]
 	ff = only
