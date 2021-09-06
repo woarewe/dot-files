@@ -1,6 +1,6 @@
 [user]
 	name = woarewe
-	email = rostislav@hey.com
+	email = rostislav.zhuravsky@gmail.com
 [core]
 	editor = code --wait
 	autocrlf = input
