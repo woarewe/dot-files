@@ -13,3 +13,4 @@
 /.config/git/*
 !/.config/git/ignore
 !/.config/git/config
+!/.config/nvim
