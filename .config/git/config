@@ -2,9 +2,11 @@
 	name = woarewe
 	email = rostislav.zhuravsky@gmail.com
 [core]
-	editor = code --wait
+	editor = nvim
 	autocrlf = input
 [pull]
 	ff = only
 [init]
 	defaultBranch = master
+[push]
+	autoSetupRemote = true
