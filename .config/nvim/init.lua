@@ -1,3 +1,0 @@
-require("woarewe")
-
-print("hello")
