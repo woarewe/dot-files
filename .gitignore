@@ -15,8 +15,6 @@
 !/.config/git/config
 !/.config/nvim
 
-!/.vscode-setup
-/.vscode-setup/target
 !/.shell-init
 !/README.md
 !/.ruby-version
