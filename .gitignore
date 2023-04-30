@@ -14,3 +14,5 @@
 !/.config/git/ignore
 !/.config/git/config
 !/.config/nvim
+
+!/.vscode-setup
